@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YouTube Sponsorship Analysis using Sentiment Analysis
 
 ## Problem Statement
@@ -26,3 +27,6 @@ The proposed solution aims to leverage sentiment analysis to analyze comment dat
 Performing sentiment analysis on comment data from a YouTuber's channel can provide valuable insights to sponsors in determining the suitability of sponsorship and aligning their products with the YouTuber's content. By analyzing sentiment metrics, sponsors can make data-driven decisions, target potential customers effectively, and maximize the impact of their sponsorship efforts.
 
 Remember to follow ethical guidelines when collecting and analyzing comment data. Ensure that you comply with privacy regulations and respect user consent.
+=======
+# youtube-analysis
+>>>>>>> 6eca97909dee665754f152ca58dbaeb855a56fa7
