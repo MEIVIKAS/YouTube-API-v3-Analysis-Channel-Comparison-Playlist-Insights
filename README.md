@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # YouTube Sponsorship Analysis using Sentiment Analysis
 
 ## Problem Statement
